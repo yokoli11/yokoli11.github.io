@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shengyang Li"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Incoming M.S. Student (Fully-Funded) at the State Key Laboratory of Lunar and Planetary Science, Macau University of Science and Technology.<br>Senior Undergraduate in Remote Sensing Science and Technology, Xinjiang University."
   location         : "Macau, China"
-  employer         : "State Key Lab of<br>Lunar and Planetary Science"
+  employer         : "State Key Laboratory of<br>  Lunar and Planetary Science"
   uri              : # URL
   email            : "li1078061711@gmail.com" 
 
