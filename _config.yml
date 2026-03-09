@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shengyang Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate student majoring in Remote Sensing Science and Technology at Xinjiang University, and currently pursuing a master's degree with a full scholarship from the State Key Laboratory of Lunar and Planetary Science (SSI) of Macau University of Science and Technology, specializing in Planetary and Earth Sciences."
+  location         : "Macau, China"
+  employer         : "State Key Lab of Lunar and Planetary Science"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "li1078061711@gmail.com" 
 
   # Academic websites
   academia         : # URL
